@@ -168,8 +168,6 @@
     background-attachment: fixed;
     background-position: center;
     margin-bottom: 50px;
-    overflow: scroll;
-    -webkit-overflow-scrolling:touch;
 }
 .coll__content{
     display: flex;
