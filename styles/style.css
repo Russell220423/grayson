@@ -166,6 +166,7 @@
     background: url(../images/collBg.jpg);
     background-size: cover;
     background-attachment: fixed;
+    background-position: center;
     margin-bottom: 50px;
 }
 .coll__content{
